@@ -7,7 +7,6 @@ public class Main {
 
         WarmUps test = new WarmUps();
 
-        System.out.println(test.sleepIn(false,true));
-
+        System.out.println(test.sumDouble(2, 2));
     }
 }
