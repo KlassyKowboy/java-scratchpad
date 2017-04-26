@@ -4,6 +4,10 @@ package com.theironyard.charlotte;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+
+        WarmUps test = new WarmUps();
+
+        System.out.println(test.sleepIn(false,true));
+
     }
 }
